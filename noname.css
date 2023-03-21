@@ -1,0 +1,29 @@
+body {background-color:#B45F04;}
+h1 {color:green;
+box-shadow: 10px 10px 8px;
+background-color:lime;
+}
+
+h4 {color:white;}
+button {width:80px;
+height:80px;
+background-color:purple;
+box-shadow:10px 10px 6px;}
+img {width:120px;
+height:120px;
+position:absolute;
+top:350px;
+left:5px;}
+
+div {width:30px;
+height:100px;
+background-color:blue;
+box-shadow:10px 10px 6px;
+}
+
+.icone {width:30px;
+height:100px;
+background-color:purple;
+position:absolute;
+left:50px;
+transform:rotate(30deg)}
